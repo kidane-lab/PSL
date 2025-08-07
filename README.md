@@ -1,5 +1,5 @@
 # My future lab site
 
-#Plant omics under climate chnage stress study willll be focused.
+Plant omics under climate chnage stress study willll be focused.
 
-#Statistical analysis in plant biology experiment
+Statistical analysis in plant biology experiment
